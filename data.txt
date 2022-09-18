@@ -1,5 +1,5 @@
-1 anger
-2 disgust
+0 anger
+1 disgust
 2 fear
 3 joy
 4 neutral
